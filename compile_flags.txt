@@ -1,0 +1,6 @@
+-Wall
+-Wextra
+-pedantic
+-std=c23
+-I
+include/
